@@ -10,5 +10,5 @@ tech:
 company: 'KIET'
 showInProjects: true
 ---
-Developed **KIET Kaksha**, a faculty management app to view attendance and leave records, apply for leave, and mark attendance, using **React Native** for the mobile app and **Flask with MongoDB** for the backend.
+Developed **KIET Kaksha**, a faculty management app to view attendance and leave records, apply for leave, and mark attendance, using **React Native** for the mobile app and **Django with MySQL** for the backend.
 
